@@ -1,0 +1,4 @@
+remove_columns=email
+output_columns=id,name,salary
+output_delimiter=\t
+output_type=excel
